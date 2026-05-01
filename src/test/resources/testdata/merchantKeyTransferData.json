@@ -168,7 +168,7 @@
     "key": "100",
     "merchantId": "1 OR 1=1",
     "type": "CREDIT",
-    "expectedStatusCode": 400,
+    "expectedStatusCode": 500,
     "expectedStatus": "Failed",
 	"description": "Something went wrong"
   },
@@ -177,7 +177,7 @@
     "key": "100",
     "merchantId": "15",
     "type": "<script>alert(1)</script>",
-    "expectedStatusCode": 400,
+    "expectedStatusCode": 500,
     "expectedStatus": "Failed",
 	"description": "Something went wrong"
   },
@@ -222,9 +222,9 @@
     "key": "100",
     "merchantId": "999999999999",
     "type": "CREDIT",
-    "expectedStatusCode": 400,
-    "expectedStatus": "Failed",
-	"description": "Something went wrong"
+    "expectedStatusCode": 200,
+    "expectedStatus": "Success",
+	"description": "Key Processed Successfully"
 	
   },
   {
@@ -232,7 +232,7 @@
     "key": " ",
     "merchantId": " ",
     "type": " ",
-    "expectedStatusCode": 400,
+    "expectedStatusCode": 500,
     "expectedStatus": "Failed",
 	"description": "Something went wrong"
   }

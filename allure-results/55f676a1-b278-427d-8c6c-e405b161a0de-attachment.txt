@@ -1,0 +1,151 @@
+{
+    "ledger": {
+        "merchantName": "Shreeji Hp Gas distributor",
+        "openingBalance": "1300",
+        "closingBalance": "1000001081",
+        "transactions": [
+            {
+                "trxnType": "CREDIT",
+                "txnDate": "2026-04-24 11:27:07.0",
+                "newBalance": "1400",
+                "previousBalance": "1300",
+                "transferType": "ADMIN",
+                "imei1": null,
+                "remark": "Merchant key wallet credited"
+            },
+            {
+                "trxnType": "CREDIT",
+                "txnDate": "2026-04-24 11:27:08.0",
+                "newBalance": "1351",
+                "previousBalance": "1350",
+                "transferType": "ADMIN",
+                "imei1": null,
+                "remark": "Merchant key wallet credited"
+            },
+            {
+                "trxnType": "CREDIT",
+                "txnDate": "2026-04-24 11:27:09.0",
+                "newBalance": "1000001350",
+                "previousBalance": "1351",
+                "transferType": "ADMIN",
+                "imei1": null,
+                "remark": "Merchant key wallet credited"
+            },
+            {
+                "trxnType": "CREDIT",
+                "txnDate": "2026-04-24 11:27:09.0",
+                "newBalance": "1000001350",
+                "previousBalance": "1000001350",
+                "transferType": "ADMIN",
+                "imei1": null,
+                "remark": "Merchant key wallet credited"
+            },
+            {
+                "trxnType": "CREDIT",
+                "txnDate": "2026-04-24 11:27:10.0",
+                "newBalance": "1000001340",
+                "previousBalance": "1000001350",
+                "transferType": "ADMIN",
+                "imei1": null,
+                "remark": "Merchant key wallet credited"
+            },
+            {
+                "trxnType": "DEBIT",
+                "txnDate": "2026-04-24 11:27:11.0",
+                "newBalance": "1000001240",
+                "previousBalance": "1000001340",
+                "transferType": "ADMIN",
+                "imei1": null,
+                "remark": "Merchant key wallet debited"
+            },
+            {
+                "trxnType": "DEBIT",
+                "txnDate": "2026-04-24 11:27:12.0",
+                "newBalance": "1000001140",
+                "previousBalance": "1000001240",
+                "transferType": "ADMIN",
+                "imei1": null,
+                "remark": "Merchant key wallet debited"
+            },
+            {
+                "trxnType": "DEBIT",
+                "txnDate": "2026-04-24 11:27:14.0",
+                "newBalance": "1000001040",
+                "previousBalance": "1000001140",
+                "transferType": "ADMIN",
+                "imei1": null,
+                "remark": "Merchant key wallet debited"
+            },
+            {
+                "trxnType": "DEBIT",
+                "txnDate": "2026-04-24 11:27:17.0",
+                "newBalance": "1000000940",
+                "previousBalance": "1000001040",
+                "transferType": "ADMIN",
+                "imei1": null,
+                "remark": "Merchant key wallet debited"
+            },
+            {
+                "trxnType": "CREDIT",
+                "txnDate": "2026-04-24 11:27:18.0",
+                "newBalance": "1000001040",
+                "previousBalance": "1000000940",
+                "transferType": "ADMIN",
+                "imei1": null,
+                "remark": "Merchant key wallet credited"
+            },
+            {
+                "trxnType": "CREDIT",
+                "txnDate": "2026-04-24 11:30:10.0",
+                "newBalance": "1000001140",
+                "previousBalance": "1000001040",
+                "transferType": "ADMIN",
+                "imei1": null,
+                "remark": "Merchant key wallet credited"
+            },
+            {
+                "trxnType": "DEBIT",
+                "txnDate": "2026-04-24 11:30:11.0",
+                "newBalance": "1000001090",
+                "previousBalance": "1000001140",
+                "transferType": "ADMIN",
+                "imei1": null,
+                "remark": "Merchant key wallet debited"
+            },
+            {
+                "trxnType": "CREDIT",
+                "txnDate": "2026-04-24 11:30:11.0",
+                "newBalance": "1000001091",
+                "previousBalance": "1000001090",
+                "transferType": "ADMIN",
+                "imei1": null,
+                "remark": "Merchant key wallet credited"
+            },
+            {
+                "trxnType": "CREDIT",
+                "txnDate": "2026-04-24 11:30:12.0",
+                "newBalance": "1000001091",
+                "previousBalance": "1000001091",
+                "transferType": "ADMIN",
+                "imei1": null,
+                "remark": "Merchant key wallet credited"
+            },
+            {
+                "trxnType": "CREDIT",
+                "txnDate": "2026-04-24 11:30:13.0",
+                "newBalance": "1000001081",
+                "previousBalance": "1000001091",
+                "transferType": "ADMIN",
+                "imei1": null,
+                "remark": "Merchant key wallet credited"
+            }
+        ]
+    },
+    "totalRecords": 636,
+    "code": "0x0200",
+    "totalPages": 43,
+    "pageSize": 15,
+    "description": "Ledger Fetched Successfully",
+    "currentPage": 2,
+    "status": "Success"
+}

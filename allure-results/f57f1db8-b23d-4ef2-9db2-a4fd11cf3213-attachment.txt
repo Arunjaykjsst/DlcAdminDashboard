@@ -1,0 +1,25 @@
+{
+    "ledger": {
+        "merchantName": "Shreeji Hp Gas distributor",
+        "openingBalance": "0",
+        "closingBalance": "100",
+        "transactions": [
+            {
+                "trxnType": "CREDIT",
+                "txnDate": "2026-04-06 13:21:06.000000",
+                "newBalance": "100",
+                "previousBalance": "0",
+                "transferType": "ADMIN",
+                "imei1": null,
+                "remark": "Merchant key wallet credited"
+            }
+        ]
+    },
+    "totalRecords": 636,
+    "code": "0x0200",
+    "totalPages": 636,
+    "pageSize": 1,
+    "description": "Ledger Fetched Successfully",
+    "currentPage": 1,
+    "status": "Success"
+}

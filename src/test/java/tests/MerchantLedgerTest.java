@@ -43,10 +43,10 @@ public class MerchantLedgerTest {
 	                Allure.description(data.getTestName());
 	                
 	                 //Status code validation
-	            	 Assert.assertEquals(response.getStatusCode(), data.getExpectedStatusCode());
+	                Assert.assertEquals(response.getStatusCode(), data.getExpectedStatusCode());
 	            	 
 	            	 //Condition Validation(only if expected is not null)
-	            	 if(data.getExpectedStatus() != null) {
+	                if(data.getExpectedStatus() != null) {
 	            		 Assert.assertEquals(response.jsonPath().getString("status"), data.getExpectedStatus());
 	            	 }             
 		}		

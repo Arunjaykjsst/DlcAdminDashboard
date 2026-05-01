@@ -1,0 +1,7 @@
+{
+    "type": "about:blank",
+    "title": "Unsupported Media Type",
+    "status": 415,
+    "detail": "Content-Type 'text/plain;charset=ISO-8859-1' is not supported.",
+    "instance": "/admin/dlc/deviceList"
+}
