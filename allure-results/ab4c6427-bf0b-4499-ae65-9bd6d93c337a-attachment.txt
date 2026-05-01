@@ -1,1 +1,0 @@
-{fromDate=, trxnType=, merchantId=1 OR 1=1, pageNo=0, toDate=, transferType=, pageSize=15, type=}

@@ -1,5 +1,0 @@
-{
-    "code": "0x0202",
-    "description": "Page number must not be less than 0",
-    "status": "Failed"
-}

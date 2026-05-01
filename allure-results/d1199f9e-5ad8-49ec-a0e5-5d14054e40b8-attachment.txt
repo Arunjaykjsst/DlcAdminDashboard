@@ -1,5 +1,0 @@
-{
-    "code": "0x0202",
-    "description": "Page size must not be greater than 15",
-    "status": "Failed"
-}

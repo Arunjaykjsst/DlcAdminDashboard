@@ -1,1 +1,0 @@
-{merchantId=15, type=DEBIT, key=1}

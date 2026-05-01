@@ -1,5 +1,0 @@
-{
-    "code": "0x0205",
-    "description": "Something Went Wrong",
-    "status": "Failed"
-}

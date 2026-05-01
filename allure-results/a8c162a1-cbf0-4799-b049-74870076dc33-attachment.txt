@@ -1,1 +1,0 @@
-{merchantId=-1, type=CREDIT, key=100}

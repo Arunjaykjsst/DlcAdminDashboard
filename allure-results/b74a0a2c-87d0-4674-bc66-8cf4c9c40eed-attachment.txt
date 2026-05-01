@@ -1,5 +1,0 @@
-{
-    "code": "0x0202",
-    "description": "Data Not Found",
-    "status": "Failed"
-}

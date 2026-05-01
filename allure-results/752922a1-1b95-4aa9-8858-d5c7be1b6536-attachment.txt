@@ -1,5 +1,0 @@
-{
-    "code": "0x0202",
-    "description": "Key must be numeric",
-    "status": "Failed"
-}
