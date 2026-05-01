@@ -1,0 +1,5 @@
+{
+    "code": "0x0202",
+    "description": "Admin does not have sufficient keys",
+    "status": "Failed"
+}

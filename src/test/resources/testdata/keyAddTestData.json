@@ -1,0 +1,116 @@
+[
+  {
+    "testName": "Valid Key - Normal Value",
+    "key": "50",
+    "expectedStatusCode": 200,
+    "expectedStatus": "Success"
+  },
+  {
+    "testName": "Valid Key - Minimum Boundary",
+    "key": "1",
+    "expectedStatusCode": 200,
+    "expectedStatus": "Success"
+  },
+  {
+    "testName": "Valid Key - Large Value",
+    "key": "999999",
+    "expectedStatusCode": 200,
+    "expectedStatus": "Success"
+  },
+
+  {
+    "testName": "Boundary - Zero",
+    "key": "0",
+    "expectedStatusCode": 400,
+    "expectedStatus": "Failed"
+  },
+  {
+    "testName": "Boundary - Negative Value",
+    "key": "-1",
+    "expectedStatusCode": 400,
+    "expectedStatus": "Failed"
+  },
+
+  {
+    "testName": "Invalid - Alphabet Input",
+    "key": "abc",
+    "expectedStatusCode": 400,
+    "expectedStatus": "Failed"
+  },
+  {
+    "testName": "Invalid - Alphanumeric Input",
+    "key": "50abc",
+    "expectedStatusCode": 400,
+    "expectedStatus": "Failed"
+  },
+
+  {
+    "testName": "Invalid - Empty String",
+    "key": "",
+    "expectedStatusCode": 400,
+    "expectedStatus": "Failed"
+  },
+  {
+    "testName": "Invalid - Spaces Only",
+    "key": "   ",
+    "expectedStatusCode": 400,
+    "expectedStatus": "Failed"
+  },
+
+  {
+    "testName": "Invalid - Special Characters",
+    "key": "@#$%",
+    "expectedStatusCode": 400,
+    "expectedStatus": "Failed"
+  },
+
+  {
+    "testName": "Security - SQL Injection",
+    "key": "1 OR 1=1",
+    "expectedStatusCode": 400,
+    "expectedStatus": "Failed"
+  },
+  {
+    "testName": "Security - SQL Injection Advanced",
+    "key": "'; DROP TABLE users; --",
+    "expectedStatusCode": 400,
+    "expectedStatus": "Failed"
+  },
+
+  {
+    "testName": "Security - XSS Script",
+    "key": "<script>alert(1)</script>",
+    "expectedStatusCode": 400,
+    "expectedStatus": "Failed"
+},
+  {
+    "testName": "Edge - Very Large Number",
+    "key": "999999999999999999999",
+    "expectedStatusCode": 400,
+    "expectedStatus": "Failed"
+  },
+
+  {
+    "testName": "Edge - Null Value",
+    "key": null,
+    "expectedStatusCode": 400,
+    "expectedStatus": "Failed"
+  },
+
+  {
+    "testName": "Duplicate Key First Call",
+    "key": "50",
+    "expectedStatusCode": 200,
+    "expectedStatus": "Success"
+  },
+  {
+    "testName": "Duplicate Key Second Call",
+    "key": "50",
+    "expectedStatusCode": 200,
+    "expectedStatus": "Success"
+  }
+  
+  
+  
+  
+]

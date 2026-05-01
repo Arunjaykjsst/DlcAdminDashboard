@@ -1,0 +1,239 @@
+[
+  {
+    "testName": "Valid CREDIT Transfer ",
+    "key": "100",
+    "merchantId": "15",
+    "type": "CREDIT",
+    "expectedStatusCode": 200,
+    "expectedStatus": "Success",
+	"description": "Key Processed Successfully"
+  },
+  {
+    "testName": "Valid DEBIT Transfer",
+    "key": "50",
+    "merchantId": "15",
+    "type": "DEBIT",
+    "expectedStatusCode": 200,
+    "expectedStatus": "Success",
+	"description": "Key Processed Successfully"
+  },
+  {
+    "testName": " DEBIT More Than Key Balance in Merchant account",
+    "key": "9999",
+    "merchantId": "15",
+    "type": "DEBIT",
+    "expectedStatusCode": 400,
+    "expectedStatus": "Failed",
+	"description": "Something went wrong"
+  },
+  {
+    "testName": "DEBIT Minimum  key value",
+    "key": "1",
+    "merchantId": "15",
+    "type": "DEBIT",
+    "expectedStatusCode": 200,
+    "expectedStatus": "Success",
+	"description": "Key Processed Successfully"
+  },
+  {
+    "testName": "DEBIT Zero Key Value",
+    "key": "0",
+    "merchantId": "15",
+    "type": "DEBIT",
+    "expectedStatusCode": 400,
+    "expectedStatus": "Failed",
+	"description": "Something went wrong"
+  },
+  {
+    "testName": "DEBIT Negative Value from Merchant",
+    "key": "-10",
+    "merchantId": "15",
+    "type": "DEBIT",
+    "expectedStatusCode": 400,
+    "expectedStatus": "Failed",
+	"description": "Something went wrong"
+  },
+  {
+    "testName": "Minimum Key Value",
+    "key": "1",
+    "merchantId": "15",
+    "type": "CREDIT",
+    "expectedStatusCode": 200,
+    "expectedStatus": "Success",
+	"description": "Key Processed Successfully"
+  },
+  {
+    "testName": "Large Key Value",
+    "key": "9999999999",
+    "merchantId": "15",
+    "type": "CREDIT",
+    "expectedStatusCode": 200,
+    "expectedStatus": "Failed",
+	"description": "Admin does not have sufficient keys"
+  },
+  {
+    "testName": "Zero Key Value",
+    "key": "0",
+    "merchantId": "15",
+    "type": "CREDIT",
+    "expectedStatusCode": 400,
+    "expectedStatus": "Failed",
+	"description": "Something went wrong"
+	
+  },
+  {
+    "testName": "Negative Key Value",
+    "key": "-10",
+    "merchantId": "15",
+    "type": "CREDIT",
+    "expectedStatusCode": 400,
+    "expectedStatus": "Failed",
+	"description": "Something went wrong"
+  },
+  {
+    "testName": "Invalid Merchant ID",
+    "key": "100",
+    "merchantId": "-1",
+    "type": "CREDIT",
+    "expectedStatusCode": 400,
+    "expectedStatus": "Failed",
+	"description": "Something went wrong"
+  },
+  {
+    "testName": "12. Non-numeric Merchant ID",
+    "key": "100",
+    "merchantId": "abc",
+    "type": "CREDIT",
+    "expectedStatusCode": 400,
+    "expectedStatus": "Failed",
+	"description": "Something went wrong"
+  },
+  {
+    "testName": "Invalid Type Value",
+    "key": "100",
+    "merchantId": "15",
+    "type": "TRANSFER",
+    "expectedStatusCode": 400,
+    "expectedStatus": "Failed",
+	"description": "Something went wrong"
+  },
+  {
+    "testName": "Lowercase Type (credit)",
+    "key": "100",
+    "merchantId": "15",
+    "type": "credit",
+    "expectedStatusCode": 400,
+    "expectedStatus": "Failed",
+	"description": "Something went wrong"
+  },
+  {
+    "testName": "Empty Type",
+    "key": "100",
+    "merchantId": "15",
+    "type": "",
+    "expectedStatusCode": 400,
+    "expectedStatus": "Failed",
+	"description": "Something went wrong"
+  },
+  {
+    "testName": "Missing Key",
+    "key": "",
+    "merchantId": "15",
+    "type": "CREDIT",
+    "expectedStatusCode": 400,
+    "expectedStatus": "Failed",
+	"description": "Something went wrong"
+  },
+  {
+    "testName": "Missing Merchant ID",
+    "key": "100",
+    "merchantId": "",
+    "type": "CREDIT",
+    "expectedStatusCode": 400,
+    "expectedStatus": "Failed",
+	"description": "Something went wrong"
+  },
+  
+  {
+    "testName": "SQL Injection in Key",
+    "key": "1 OR 1=1",
+    "merchantId": "15",
+    "type": "CREDIT",
+    "expectedStatusCode": 400,
+    "expectedStatus": "Failed",
+	"description": "Something went wrong"
+  },
+  {
+    "testName": "SQL Injection in Merchant ID",
+    "key": "100",
+    "merchantId": "1 OR 1=1",
+    "type": "CREDIT",
+    "expectedStatusCode": 400,
+    "expectedStatus": "Failed",
+	"description": "Something went wrong"
+  },
+  {
+    "testName": "XSS Attack in Type",
+    "key": "100",
+    "merchantId": "15",
+    "type": "<script>alert(1)</script>",
+    "expectedStatusCode": 400,
+    "expectedStatus": "Failed",
+	"description": "Something went wrong"
+  },
+  {
+    "testName": "Special Characters in Key",
+    "key": "@#$%",
+    "merchantId": "15",
+    "type": "CREDIT",
+    "expectedStatusCode": 400,
+    "expectedStatus": "Failed",
+	"description": "Something went wrong"
+  },
+  {
+    "testName": "Special Characters in Merchant ID",
+    "key": "100",
+    "merchantId": "@@@",
+    "type": "CREDIT",
+    "expectedStatusCode": 400,
+    "expectedStatus": "Failed",
+	"description": "Something went wrong"
+  },
+  {
+    "testName": "Duplicate CREDIT Request",
+    "key": "100",
+    "merchantId": "15",
+    "type": "CREDIT",
+    "expectedStatusCode": 200,
+    "expectedStatus": "Success",
+	"description": "Something went wrong"
+  },
+  {
+    "testName": "Duplicate DEBIT Request",
+    "key": "50",
+    "merchantId": "15",
+    "type": "DEBIT",
+    "expectedStatusCode": 200,
+    "expectedStatus": "Success",
+	"description": "Key Processed Successfully"
+  },
+  {
+    "testName": "Very Large Merchant ID",
+    "key": "100",
+    "merchantId": "999999999999",
+    "type": "CREDIT",
+    "expectedStatusCode": 400,
+    "expectedStatus": "Failed",
+	"description": "Something went wrong"
+	
+  },
+  {
+    "testName": "Whitespace Values",
+    "key": " ",
+    "merchantId": " ",
+    "type": " ",
+    "expectedStatusCode": 400,
+    "expectedStatus": "Failed",
+	"description": "Something went wrong"
+  }
+]

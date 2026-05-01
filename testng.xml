@@ -1,0 +1,46 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="API Test Suite" parallel="false">
+
+    <listeners>
+        <listener class-name="listeners.TestListener"/>
+        <!-- AllureTestNg is auto-registered via allure-testng dependency; add below only if not working automatically -->
+        <!-- <listener class-name="io.qameta.allure.testng.AllureTestNg"/> -->
+    </listeners>
+
+    <test name="Key Add Tests">
+        <classes>
+            <class name="tests.KeyAddTest"/>
+        </classes>
+    </test>
+
+    <test name="Key Report Tests">
+        <classes>
+            <class name="tests.KeyReportTest"/>
+        </classes>
+    </test>
+
+    <test name="Merchant Key Transfer Tests" parallel="false">
+        <classes>
+            <class name="tests.MerchantKeyTransferTest"/>
+        </classes>
+    </test>
+
+    <test name="Merchant Ledger Tests">
+        <classes>
+            <class name="tests.MerchantLedgerTest"/>
+        </classes>
+    </test>
+
+    <test name="Device List Tests">
+        <classes>
+            <class name="tests.DeviceListTest"/>
+        </classes>
+    </test>
+
+    <test name="Dashboard Test">
+        <classes>
+            <class name="tests.DashboardTest"/>
+        </classes>
+    </test>
+
+</suite>

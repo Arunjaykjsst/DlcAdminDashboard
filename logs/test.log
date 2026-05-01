@@ -1,0 +1,514 @@
+2026-05-01 13:31:00 [INFO] [] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-05-01 13:31:00 [INFO] [] [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+2026-05-01 13:31:00 [INFO] [] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-05-01 13:31:00 [INFO] [] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-05-01 13:31:00 [INFO] [] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-05-01 13:31:00 [INFO] [] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-05-01 13:31:00 [INFO] [] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-05-01 13:31:00 [INFO] [] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-05-01 13:31:00 [INFO] [] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 7 ms.
+2026-05-01 13:31:00 [INFO] [] [Utils] MethodGroupsHelper.sortMethods() took 16 ms.
+2026-05-01 13:31:00 [INFO] [] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-05-01 13:31:00 [INFO] [] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-05-01 13:31:00 [INFO] [] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-05-01 13:31:00 [INFO] [] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-05-01 13:31:00 [INFO] [] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-05-01 13:31:00 [INFO] [] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-05-01 13:31:00 [INFO] [] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-05-01 13:31:00 [INFO] [] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-05-01 13:31:00 [INFO] [] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-05-01 13:31:00 [INFO] [] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-05-01 13:31:00 [INFO] [] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-05-01 13:31:00 [INFO] [] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-05-01 13:31:00 [INFO] [] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-05-01 13:31:00 [INFO] [] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-05-01 13:31:00 [INFO] [] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-05-01 13:31:00 [INFO] [] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-05-01 13:31:00 [INFO] [] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-05-01 13:31:00 [INFO] [] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-05-01 13:31:00 [INFO] [] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-05-01 13:31:00 [INFO] [] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-05-01 13:31:00 [INFO] [] [TestNG] Running:
+  C:\Users\Admin\AppData\Local\Temp\testng-eclipse--1724613435\testng-customsuite.xml
+
+2026-05-01 13:31:00 [INFO] [] [Utils] DynamicGraphHelper.createDynamicGraph() took 7 ms.
+2026-05-01 13:31:01 [INFO] [] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2026-05-01 13:31:01 [INFO] [] [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2026-05-01 13:31:01 [INFO] [] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-05-01 13:31:01 [INFO] [] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-05-01 13:31:01 [INFO] [] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-05-01 13:31:01 [INFO] [] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-05-01 13:31:01 [INFO] [] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-05-01 13:31:01 [INFO] [] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-05-01 13:31:01 [INFO] [] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+2026-05-01 13:31:01 [INFO] [] [Utils] MethodGroupsHelper.sortMethods() took 20 ms.
+2026-05-01 13:31:01 [INFO] [] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-05-01 13:31:01 [INFO] [] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-05-01 13:31:01 [INFO] [] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-05-01 13:31:01 [INFO] [] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-05-01 13:31:01 [INFO] [] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-05-01 13:31:01 [INFO] [] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-05-01 13:31:01 [INFO] [] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-05-01 13:31:01 [INFO] [] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-05-01 13:31:01 [INFO] [] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-05-01 13:31:01 [INFO] [] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-05-01 13:31:01 [INFO] [] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-05-01 13:31:01 [INFO] [] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-05-01 13:31:01 [INFO] [] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-05-01 13:31:01 [INFO] [] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-05-01 13:31:01 [INFO] [] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2026-05-01 13:31:01 [INFO] [] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-05-01 13:31:01 [INFO] [] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-05-01 13:31:01 [INFO] [] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-05-01 13:31:01 [INFO] [] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-05-01 13:31:01 [INFO] [] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-05-01 13:31:02 [INFO] [] [TestNG] Running:
+  C:\Users\Admin\AppData\Local\Temp\testng-eclipse--1753084853\testng-customsuite.xml
+
+2026-05-01 13:31:02 [INFO] [] ====== API REQUEST ======
+2026-05-01 13:31:02 [INFO] [] [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+2026-05-01 13:31:02 [INFO] [] Endpoint: https://dev.kjsstpay.co.in/admin/dlc/deviceList
+2026-05-01 13:31:02 [INFO] [] Query Params: {fromDate=, imei1=null, merchantId=15, pageNo=0, toDate=, pageSize=15, type=, deviceId=/6uuUqGpocfsgMX1zqEEzQ==, status=}
+2026-05-01 13:31:03 [INFO] [] ====== API REQUEST ======
+2026-05-01 13:31:03 [INFO] [] Endpoint: https://dev.kjsstpay.co.in/admin/dlc/deviceList
+2026-05-01 13:31:03 [INFO] [] Query Params: {fromDate=, imei1=null, merchantId=15, pageNo=0, toDate=, pageSize=15, type=, deviceId=/6uuUqGpocfsgMX1zqEEzQ==, status=}
+2026-05-01 13:31:05 [INFO] [] ====== API RESPONSE ======
+2026-05-01 13:31:05 [INFO] [] Status Code: 415
+2026-05-01 13:31:05 [INFO] [] Response: {
+    "type": "about:blank",
+    "title": "Unsupported Media Type",
+    "status": 415,
+    "detail": "Content-Type 'text/plain;charset=ISO-8859-1' is not supported.",
+    "instance": "/admin/dlc/deviceList"
+}
+2026-05-01 13:31:05 [INFO] [] ====== API REQUEST ======
+2026-05-01 13:31:05 [INFO] [] Endpoint: https://dev.kjsstpay.co.in/admin/dlc/deviceList
+2026-05-01 13:31:05 [INFO] [] Query Params: {fromDate=2026-04-01, imei1=null, merchantId=15, pageNo=0, toDate=2026-04-27, pageSize=15, type=, deviceId=/6uuUqGpocfsgMX1zqEEzQ==, status=}
+2026-05-01 13:31:05 [INFO] [] ====== API RESPONSE ======
+2026-05-01 13:31:05 [INFO] [] Status Code: 415
+2026-05-01 13:31:06 [INFO] [] Response: {
+    "type": "about:blank",
+    "title": "Unsupported Media Type",
+    "status": 415,
+    "detail": "Content-Type 'text/plain;charset=ISO-8859-1' is not supported.",
+    "instance": "/admin/dlc/deviceList"
+}
+2026-05-01 13:31:06 [INFO] [] ====== API RESPONSE ======
+2026-05-01 13:31:06 [INFO] [] Status Code: 415
+2026-05-01 13:31:06 [INFO] [] Response: {
+    "type": "about:blank",
+    "title": "Unsupported Media Type",
+    "status": 415,
+    "detail": "Content-Type 'text/plain;charset=ISO-8859-1' is not supported.",
+    "instance": "/admin/dlc/deviceList"
+}
+2026-05-01 13:31:06 [INFO] [] ====== API REQUEST ======
+2026-05-01 13:31:06 [INFO] [] Endpoint: https://dev.kjsstpay.co.in/admin/dlc/deviceList
+2026-05-01 13:31:06 [INFO] [] Query Params: {fromDate=, imei1=null, merchantId=15, pageNo=1, toDate=, pageSize=15, type=, deviceId=/6uuUqGpocfsgMX1zqEEzQ==, status=}
+2026-05-01 13:31:06 [INFO] [] ====== API REQUEST ======
+2026-05-01 13:31:06 [INFO] [] Endpoint: https://dev.kjsstpay.co.in/admin/dlc/deviceList
+2026-05-01 13:31:06 [INFO] [] Query Params: {fromDate=2026-04-01, imei1=null, merchantId=15, pageNo=0, toDate=2026-04-27, pageSize=15, type=, deviceId=/6uuUqGpocfsgMX1zqEEzQ==, status=}
+2026-05-01 13:31:06 [INFO] [] ====== API RESPONSE ======
+2026-05-01 13:31:06 [INFO] [] Status Code: 415
+2026-05-01 13:31:06 [INFO] [] Response: {
+    "type": "about:blank",
+    "title": "Unsupported Media Type",
+    "status": 415,
+    "detail": "Content-Type 'text/plain;charset=ISO-8859-1' is not supported.",
+    "instance": "/admin/dlc/deviceList"
+}
+2026-05-01 13:31:06 [INFO] [] ====== API REQUEST ======
+2026-05-01 13:31:06 [INFO] [] Endpoint: https://dev.kjsstpay.co.in/admin/dlc/deviceList
+2026-05-01 13:31:06 [INFO] [] Query Params: {fromDate=, imei1=null, merchantId=15, pageNo=0, toDate=, pageSize=100, type=, deviceId=/6uuUqGpocfsgMX1zqEEzQ==, status=}
+2026-05-01 13:31:06 [INFO] [] ====== API RESPONSE ======
+2026-05-01 13:31:06 [INFO] [] Status Code: 415
+2026-05-01 13:31:06 [INFO] [] Response: {
+    "type": "about:blank",
+    "title": "Unsupported Media Type",
+    "status": 415,
+    "detail": "Content-Type 'text/plain;charset=ISO-8859-1' is not supported.",
+    "instance": "/admin/dlc/deviceList"
+}
+2026-05-01 13:31:06 [INFO] [] ====== API REQUEST ======
+2026-05-01 13:31:06 [INFO] [] Endpoint: https://dev.kjsstpay.co.in/admin/dlc/deviceList
+2026-05-01 13:31:06 [INFO] [] Query Params: {fromDate=, imei1=null, merchantId=15, pageNo=1, toDate=, pageSize=15, type=, deviceId=/6uuUqGpocfsgMX1zqEEzQ==, status=}
+2026-05-01 13:31:07 [INFO] [] ====== API RESPONSE ======
+2026-05-01 13:31:07 [INFO] [] Status Code: 415
+2026-05-01 13:31:07 [INFO] [] Response: {
+    "type": "about:blank",
+    "title": "Unsupported Media Type",
+    "status": 415,
+    "detail": "Content-Type 'text/plain;charset=ISO-8859-1' is not supported.",
+    "instance": "/admin/dlc/deviceList"
+}
+2026-05-01 13:31:07 [INFO] [] ====== API REQUEST ======
+2026-05-01 13:31:07 [INFO] [] Endpoint: https://dev.kjsstpay.co.in/admin/dlc/deviceList
+2026-05-01 13:31:07 [INFO] [] Query Params: {fromDate=, imei1=null, merchantId=15, pageNo=0, toDate=, pageSize=15, type=, deviceId=/6uuUqGpocfsgMX1zqEEzQ==, status=ACTIVE}
+2026-05-01 13:31:07 [INFO] [] ====== API RESPONSE ======
+2026-05-01 13:31:07 [INFO] [] Status Code: 415
+2026-05-01 13:31:07 [INFO] [] Response: {
+    "type": "about:blank",
+    "title": "Unsupported Media Type",
+    "status": 415,
+    "detail": "Content-Type 'text/plain;charset=ISO-8859-1' is not supported.",
+    "instance": "/admin/dlc/deviceList"
+}
+2026-05-01 13:31:07 [INFO] [] ====== API REQUEST ======
+2026-05-01 13:31:07 [INFO] [] Endpoint: https://dev.kjsstpay.co.in/admin/dlc/deviceList
+2026-05-01 13:31:07 [INFO] [] Query Params: {fromDate=, imei1=null, merchantId=15, pageNo=0, toDate=, pageSize=100, type=, deviceId=/6uuUqGpocfsgMX1zqEEzQ==, status=}
+2026-05-01 13:31:07 [INFO] [] ====== API RESPONSE ======
+2026-05-01 13:31:07 [INFO] [] Status Code: 415
+2026-05-01 13:31:07 [INFO] [] Response: {
+    "type": "about:blank",
+    "title": "Unsupported Media Type",
+    "status": 415,
+    "detail": "Content-Type 'text/plain;charset=ISO-8859-1' is not supported.",
+    "instance": "/admin/dlc/deviceList"
+}
+2026-05-01 13:31:07 [INFO] [] ====== API REQUEST ======
+2026-05-01 13:31:07 [INFO] [] Endpoint: https://dev.kjsstpay.co.in/admin/dlc/deviceList
+2026-05-01 13:31:07 [INFO] [] Query Params: {fromDate=, imei1=null, merchantId=15, pageNo=0, toDate=, pageSize=15, type=, deviceId=/6uuUqGpocfsgMX1zqEEzQ==, status=INACTIVE}
+2026-05-01 13:31:08 [INFO] [] ====== API RESPONSE ======
+2026-05-01 13:31:08 [INFO] [] Status Code: 415
+2026-05-01 13:31:08 [INFO] [] Response: {
+    "type": "about:blank",
+    "title": "Unsupported Media Type",
+    "status": 415,
+    "detail": "Content-Type 'text/plain;charset=ISO-8859-1' is not supported.",
+    "instance": "/admin/dlc/deviceList"
+}
+2026-05-01 13:31:08 [INFO] [] ====== API REQUEST ======
+2026-05-01 13:31:08 [INFO] [] Endpoint: https://dev.kjsstpay.co.in/admin/dlc/deviceList
+2026-05-01 13:31:08 [INFO] [] Query Params: {fromDate=, imei1=null, merchantId=-1, pageNo=0, toDate=, pageSize=15, type=, deviceId=/6uuUqGpocfsgMX1zqEEzQ==, status=}
+2026-05-01 13:31:08 [INFO] [] ====== API RESPONSE ======
+2026-05-01 13:31:08 [INFO] [] Status Code: 415
+2026-05-01 13:31:08 [INFO] [] Response: {
+    "type": "about:blank",
+    "title": "Unsupported Media Type",
+    "status": 415,
+    "detail": "Content-Type 'text/plain;charset=ISO-8859-1' is not supported.",
+    "instance": "/admin/dlc/deviceList"
+}
+2026-05-01 13:31:08 [INFO] [] ====== API REQUEST ======
+2026-05-01 13:31:08 [INFO] [] Endpoint: https://dev.kjsstpay.co.in/admin/dlc/deviceList
+2026-05-01 13:31:08 [INFO] [] Query Params: {fromDate=, imei1=null, merchantId=15, pageNo=0, toDate=, pageSize=15, type=, deviceId=/6uuUqGpocfsgMX1zqEEzQ==, status=ACTIVE}
+2026-05-01 13:31:08 [INFO] [] ====== API RESPONSE ======
+2026-05-01 13:31:08 [INFO] [] Status Code: 415
+2026-05-01 13:31:08 [INFO] [] Response: {
+    "type": "about:blank",
+    "title": "Unsupported Media Type",
+    "status": 415,
+    "detail": "Content-Type 'text/plain;charset=ISO-8859-1' is not supported.",
+    "instance": "/admin/dlc/deviceList"
+}
+2026-05-01 13:31:08 [INFO] [] ====== API REQUEST ======
+2026-05-01 13:31:08 [INFO] [] Endpoint: https://dev.kjsstpay.co.in/admin/dlc/deviceList
+2026-05-01 13:31:08 [INFO] [] Query Params: {fromDate=, imei1=null, merchantId=15, pageNo=0, toDate=, pageSize=15, type=, deviceId=/6uuUqGpocfsgMX1zqEEzQ==, status=INACTIVE}
+2026-05-01 13:31:08 [INFO] [] ====== API RESPONSE ======
+2026-05-01 13:31:08 [INFO] [] Status Code: 415
+2026-05-01 13:31:08 [INFO] [] Response: {
+    "type": "about:blank",
+    "title": "Unsupported Media Type",
+    "status": 415,
+    "detail": "Content-Type 'text/plain;charset=ISO-8859-1' is not supported.",
+    "instance": "/admin/dlc/deviceList"
+}
+2026-05-01 13:31:08 [INFO] [] ====== API REQUEST ======
+2026-05-01 13:31:08 [INFO] [] Endpoint: https://dev.kjsstpay.co.in/admin/dlc/deviceList
+2026-05-01 13:31:08 [INFO] [] Query Params: {fromDate=, imei1=null, merchantId=, pageNo=0, toDate=, pageSize=15, type=, deviceId=/6uuUqGpocfsgMX1zqEEzQ==, status=}
+2026-05-01 13:31:09 [INFO] [] ====== API RESPONSE ======
+2026-05-01 13:31:09 [INFO] [] Status Code: 415
+2026-05-01 13:31:09 [INFO] [] Response: {
+    "type": "about:blank",
+    "title": "Unsupported Media Type",
+    "status": 415,
+    "detail": "Content-Type 'text/plain;charset=ISO-8859-1' is not supported.",
+    "instance": "/admin/dlc/deviceList"
+}
+2026-05-01 13:31:09 [INFO] [] ====== API REQUEST ======
+2026-05-01 13:31:09 [INFO] [] Endpoint: https://dev.kjsstpay.co.in/admin/dlc/deviceList
+2026-05-01 13:31:09 [INFO] [] Query Params: {fromDate=, imei1=null, merchantId=-1, pageNo=0, toDate=, pageSize=15, type=, deviceId=/6uuUqGpocfsgMX1zqEEzQ==, status=}
+2026-05-01 13:31:09 [INFO] [] ====== API RESPONSE ======
+2026-05-01 13:31:09 [INFO] [] Status Code: 415
+2026-05-01 13:31:09 [INFO] [] Response: {
+    "type": "about:blank",
+    "title": "Unsupported Media Type",
+    "status": 415,
+    "detail": "Content-Type 'text/plain;charset=ISO-8859-1' is not supported.",
+    "instance": "/admin/dlc/deviceList"
+}
+2026-05-01 13:31:09 [INFO] [] ====== API REQUEST ======
+2026-05-01 13:31:09 [INFO] [] Endpoint: https://dev.kjsstpay.co.in/admin/dlc/deviceList
+2026-05-01 13:31:09 [INFO] [] Query Params: {fromDate=, imei1=null, merchantId=15, pageNo=-1, toDate=, pageSize=15, type=, deviceId=/6uuUqGpocfsgMX1zqEEzQ==, status=}
+2026-05-01 13:31:10 [INFO] [] ====== API RESPONSE ======
+2026-05-01 13:31:10 [INFO] [] Status Code: 415
+2026-05-01 13:31:10 [INFO] [] Response: {
+    "type": "about:blank",
+    "title": "Unsupported Media Type",
+    "status": 415,
+    "detail": "Content-Type 'text/plain;charset=ISO-8859-1' is not supported.",
+    "instance": "/admin/dlc/deviceList"
+}
+2026-05-01 13:31:10 [INFO] [] ====== API REQUEST ======
+2026-05-01 13:31:10 [INFO] [] Endpoint: https://dev.kjsstpay.co.in/admin/dlc/deviceList
+2026-05-01 13:31:10 [INFO] [] Query Params: {fromDate=, imei1=null, merchantId=, pageNo=0, toDate=, pageSize=15, type=, deviceId=/6uuUqGpocfsgMX1zqEEzQ==, status=}
+2026-05-01 13:31:10 [INFO] [] ====== API RESPONSE ======
+2026-05-01 13:31:10 [INFO] [] Status Code: 415
+2026-05-01 13:31:10 [INFO] [] Response: {
+    "type": "about:blank",
+    "title": "Unsupported Media Type",
+    "status": 415,
+    "detail": "Content-Type 'text/plain;charset=ISO-8859-1' is not supported.",
+    "instance": "/admin/dlc/deviceList"
+}
+2026-05-01 13:31:10 [INFO] [] ====== API REQUEST ======
+2026-05-01 13:31:10 [INFO] [] Endpoint: https://dev.kjsstpay.co.in/admin/dlc/deviceList
+2026-05-01 13:31:10 [INFO] [] Query Params: {fromDate=, imei1=null, merchantId=15, pageNo=0, toDate=, pageSize=0, type=, deviceId=/6uuUqGpocfsgMX1zqEEzQ==, status=}
+2026-05-01 13:31:10 [INFO] [] ====== API RESPONSE ======
+2026-05-01 13:31:10 [INFO] [] Status Code: 415
+2026-05-01 13:31:10 [INFO] [] Response: {
+    "type": "about:blank",
+    "title": "Unsupported Media Type",
+    "status": 415,
+    "detail": "Content-Type 'text/plain;charset=ISO-8859-1' is not supported.",
+    "instance": "/admin/dlc/deviceList"
+}
+2026-05-01 13:31:10 [INFO] [] ====== API REQUEST ======
+2026-05-01 13:31:10 [INFO] [] Endpoint: https://dev.kjsstpay.co.in/admin/dlc/deviceList
+2026-05-01 13:31:10 [INFO] [] Query Params: {fromDate=, imei1=null, merchantId=15, pageNo=-1, toDate=, pageSize=15, type=, deviceId=/6uuUqGpocfsgMX1zqEEzQ==, status=}
+2026-05-01 13:31:10 [INFO] [] ====== API RESPONSE ======
+2026-05-01 13:31:10 [INFO] [] Status Code: 415
+2026-05-01 13:31:10 [INFO] [] Response: {
+    "type": "about:blank",
+    "title": "Unsupported Media Type",
+    "status": 415,
+    "detail": "Content-Type 'text/plain;charset=ISO-8859-1' is not supported.",
+    "instance": "/admin/dlc/deviceList"
+}
+2026-05-01 13:31:10 [INFO] [] ====== API REQUEST ======
+2026-05-01 13:31:10 [INFO] [] Endpoint: https://dev.kjsstpay.co.in/admin/dlc/deviceList
+2026-05-01 13:31:10 [INFO] [] Query Params: {fromDate=01-04-2026, imei1=null, merchantId=15, pageNo=0, toDate=27-04-2026, pageSize=15, type=, deviceId=/6uuUqGpocfsgMX1zqEEzQ==, status=}
+2026-05-01 13:31:11 [INFO] [] ====== API RESPONSE ======
+2026-05-01 13:31:11 [INFO] [] Status Code: 415
+2026-05-01 13:31:11 [INFO] [] Response: {
+    "type": "about:blank",
+    "title": "Unsupported Media Type",
+    "status": 415,
+    "detail": "Content-Type 'text/plain;charset=ISO-8859-1' is not supported.",
+    "instance": "/admin/dlc/deviceList"
+}
+2026-05-01 13:31:11 [INFO] [] ====== API REQUEST ======
+2026-05-01 13:31:11 [INFO] [] Endpoint: https://dev.kjsstpay.co.in/admin/dlc/deviceList
+2026-05-01 13:31:11 [INFO] [] Query Params: {fromDate=, imei1=null, merchantId=15, pageNo=0, toDate=, pageSize=0, type=, deviceId=/6uuUqGpocfsgMX1zqEEzQ==, status=}
+2026-05-01 13:31:11 [INFO] [] ====== API RESPONSE ======
+2026-05-01 13:31:11 [INFO] [] Status Code: 415
+2026-05-01 13:31:11 [INFO] [] Response: {
+    "type": "about:blank",
+    "title": "Unsupported Media Type",
+    "status": 415,
+    "detail": "Content-Type 'text/plain;charset=ISO-8859-1' is not supported.",
+    "instance": "/admin/dlc/deviceList"
+}
+2026-05-01 13:31:11 [INFO] [] ====== API REQUEST ======
+2026-05-01 13:31:11 [INFO] [] Endpoint: https://dev.kjsstpay.co.in/admin/dlc/deviceList
+2026-05-01 13:31:11 [INFO] [] Query Params: {fromDate=2026-05-01, imei1=null, merchantId=15, pageNo=0, toDate=2026-04-01, pageSize=15, type=, deviceId=/6uuUqGpocfsgMX1zqEEzQ==, status=}
+2026-05-01 13:31:11 [INFO] [] ====== API RESPONSE ======
+2026-05-01 13:31:11 [INFO] [] Status Code: 415
+2026-05-01 13:31:11 [INFO] [] Response: {
+    "type": "about:blank",
+    "title": "Unsupported Media Type",
+    "status": 415,
+    "detail": "Content-Type 'text/plain;charset=ISO-8859-1' is not supported.",
+    "instance": "/admin/dlc/deviceList"
+}
+2026-05-01 13:31:11 [INFO] [] ====== API REQUEST ======
+2026-05-01 13:31:11 [INFO] [] Endpoint: https://dev.kjsstpay.co.in/admin/dlc/deviceList
+2026-05-01 13:31:11 [INFO] [] Query Params: {fromDate=01-04-2026, imei1=null, merchantId=15, pageNo=0, toDate=27-04-2026, pageSize=15, type=, deviceId=/6uuUqGpocfsgMX1zqEEzQ==, status=}
+2026-05-01 13:31:12 [INFO] [] ====== API RESPONSE ======
+2026-05-01 13:31:12 [INFO] [] Status Code: 415
+2026-05-01 13:31:12 [INFO] [] Response: {
+    "type": "about:blank",
+    "title": "Unsupported Media Type",
+    "status": 415,
+    "detail": "Content-Type 'text/plain;charset=ISO-8859-1' is not supported.",
+    "instance": "/admin/dlc/deviceList"
+}
+2026-05-01 13:31:12 [INFO] [] ====== API REQUEST ======
+2026-05-01 13:31:12 [INFO] [] Endpoint: https://dev.kjsstpay.co.in/admin/dlc/deviceList
+2026-05-01 13:31:12 [INFO] [] Query Params: {fromDate=, imei1=null, merchantId=15, pageNo=0, toDate=, pageSize=15, type=, deviceId=invalidDeviceId, status=}
+2026-05-01 13:31:12 [INFO] [] ====== API RESPONSE ======
+2026-05-01 13:31:12 [INFO] [] Status Code: 415
+2026-05-01 13:31:12 [INFO] [] Response: {
+    "type": "about:blank",
+    "title": "Unsupported Media Type",
+    "status": 415,
+    "detail": "Content-Type 'text/plain;charset=ISO-8859-1' is not supported.",
+    "instance": "/admin/dlc/deviceList"
+}
+2026-05-01 13:31:12 [INFO] [] ====== API REQUEST ======
+2026-05-01 13:31:12 [INFO] [] Endpoint: https://dev.kjsstpay.co.in/admin/dlc/deviceList
+2026-05-01 13:31:12 [INFO] [] Query Params: {fromDate=2026-05-01, imei1=null, merchantId=15, pageNo=0, toDate=2026-04-01, pageSize=15, type=, deviceId=/6uuUqGpocfsgMX1zqEEzQ==, status=}
+2026-05-01 13:31:12 [INFO] [] ====== API RESPONSE ======
+2026-05-01 13:31:12 [INFO] [] Status Code: 415
+2026-05-01 13:31:12 [INFO] [] Response: {
+    "type": "about:blank",
+    "title": "Unsupported Media Type",
+    "status": 415,
+    "detail": "Content-Type 'text/plain;charset=ISO-8859-1' is not supported.",
+    "instance": "/admin/dlc/deviceList"
+}
+2026-05-01 13:31:12 [INFO] [] ====== API REQUEST ======
+2026-05-01 13:31:12 [INFO] [] Endpoint: https://dev.kjsstpay.co.in/admin/dlc/deviceList
+2026-05-01 13:31:12 [INFO] [] Query Params: {fromDate=, imei1=null, merchantId=1 OR 1=1, pageNo=0, toDate=, pageSize=15, type=, deviceId=/6uuUqGpocfsgMX1zqEEzQ==, status=}
+2026-05-01 13:31:13 [INFO] [] ====== API RESPONSE ======
+2026-05-01 13:31:13 [INFO] [] Status Code: 415
+2026-05-01 13:31:13 [INFO] [] Response: {
+    "type": "about:blank",
+    "title": "Unsupported Media Type",
+    "status": 415,
+    "detail": "Content-Type 'text/plain;charset=ISO-8859-1' is not supported.",
+    "instance": "/admin/dlc/deviceList"
+}
+2026-05-01 13:31:13 [INFO] [] ====== API REQUEST ======
+2026-05-01 13:31:13 [INFO] [] Endpoint: https://dev.kjsstpay.co.in/admin/dlc/deviceList
+2026-05-01 13:31:13 [INFO] [] Query Params: {fromDate=, imei1=null, merchantId=15, pageNo=0, toDate=, pageSize=15, type=, deviceId=invalidDeviceId, status=}
+2026-05-01 13:31:13 [INFO] [] ====== API RESPONSE ======
+2026-05-01 13:31:13 [INFO] [] Status Code: 415
+2026-05-01 13:31:13 [INFO] [] Response: {
+    "type": "about:blank",
+    "title": "Unsupported Media Type",
+    "status": 415,
+    "detail": "Content-Type 'text/plain;charset=ISO-8859-1' is not supported.",
+    "instance": "/admin/dlc/deviceList"
+}
+2026-05-01 13:31:13 [INFO] [] ====== API REQUEST ======
+2026-05-01 13:31:13 [INFO] [] Endpoint: https://dev.kjsstpay.co.in/admin/dlc/deviceList
+2026-05-01 13:31:13 [INFO] [] Query Params: {fromDate=, imei1=null, merchantId=15, pageNo=0, toDate=, pageSize=15, type=<script>alert(1)</script>, deviceId=/6uuUqGpocfsgMX1zqEEzQ==, status=}
+2026-05-01 13:31:13 [INFO] [] ====== API RESPONSE ======
+2026-05-01 13:31:13 [INFO] [] Status Code: 415
+2026-05-01 13:31:13 [INFO] [] Response: {
+    "type": "about:blank",
+    "title": "Unsupported Media Type",
+    "status": 415,
+    "detail": "Content-Type 'text/plain;charset=ISO-8859-1' is not supported.",
+    "instance": "/admin/dlc/deviceList"
+}
+2026-05-01 13:31:13 [INFO] [] ====== API REQUEST ======
+2026-05-01 13:31:13 [INFO] [] Endpoint: https://dev.kjsstpay.co.in/admin/dlc/deviceList
+2026-05-01 13:31:13 [INFO] [] Query Params: {fromDate=, imei1=null, merchantId=@@@, pageNo=0, toDate=, pageSize=15, type=#$%, deviceId=@@@, status=!@#}
+2026-05-01 13:31:13 [INFO] [] ====== API RESPONSE ======
+2026-05-01 13:31:13 [INFO] [] Status Code: 415
+2026-05-01 13:31:13 [INFO] [] Response: {
+    "type": "about:blank",
+    "title": "Unsupported Media Type",
+    "status": 415,
+    "detail": "Content-Type 'text/plain;charset=ISO-8859-1' is not supported.",
+    "instance": "/admin/dlc/deviceList"
+}
+2026-05-01 13:31:13 [INFO] [] ====== API REQUEST ======
+2026-05-01 13:31:13 [INFO] [] Endpoint: https://dev.kjsstpay.co.in/admin/dlc/deviceList
+2026-05-01 13:31:13 [INFO] [] Query Params: {fromDate=, imei1=null, merchantId=1 OR 1=1, pageNo=0, toDate=, pageSize=15, type=, deviceId=/6uuUqGpocfsgMX1zqEEzQ==, status=}
+2026-05-01 13:31:14 [INFO] [] ====== API RESPONSE ======
+2026-05-01 13:31:14 [INFO] [] Status Code: 415
+2026-05-01 13:31:14 [INFO] [] Response: {
+    "type": "about:blank",
+    "title": "Unsupported Media Type",
+    "status": 415,
+    "detail": "Content-Type 'text/plain;charset=ISO-8859-1' is not supported.",
+    "instance": "/admin/dlc/deviceList"
+}
+2026-05-01 13:31:14 [INFO] [] ====== API REQUEST ======
+2026-05-01 13:31:14 [INFO] [] Endpoint: https://dev.kjsstpay.co.in/admin/dlc/deviceList
+2026-05-01 13:31:14 [INFO] [] Query Params: {fromDate= , imei1=null, merchantId= , pageNo= , toDate= , pageSize= , type= , deviceId= , status= }
+2026-05-01 13:31:14 [INFO] [] ====== API RESPONSE ======
+2026-05-01 13:31:14 [INFO] [] Status Code: 415
+2026-05-01 13:31:14 [INFO] [] Response: {
+    "type": "about:blank",
+    "title": "Unsupported Media Type",
+    "status": 415,
+    "detail": "Content-Type 'text/plain;charset=ISO-8859-1' is not supported.",
+    "instance": "/admin/dlc/deviceList"
+}
+2026-05-01 13:31:14 [INFO] [] ====== API REQUEST ======
+2026-05-01 13:31:14 [INFO] [] Endpoint: https://dev.kjsstpay.co.in/admin/dlc/deviceList
+2026-05-01 13:31:14 [INFO] [] Query Params: {fromDate=, imei1=null, merchantId=15, pageNo=0, toDate=, pageSize=15, type=<script>alert(1)</script>, deviceId=/6uuUqGpocfsgMX1zqEEzQ==, status=}
+2026-05-01 13:31:14 [INFO] [] ====== API RESPONSE ======
+2026-05-01 13:31:14 [INFO] [] Status Code: 415
+2026-05-01 13:31:14 [INFO] [] Response: {
+    "type": "about:blank",
+    "title": "Unsupported Media Type",
+    "status": 415,
+    "detail": "Content-Type 'text/plain;charset=ISO-8859-1' is not supported.",
+    "instance": "/admin/dlc/deviceList"
+}
+2026-05-01 13:31:14 [INFO] [] ====== API REQUEST ======
+2026-05-01 13:31:14 [INFO] [] Endpoint: https://dev.kjsstpay.co.in/admin/dlc/deviceList
+2026-05-01 13:31:14 [INFO] [] Query Params: {fromDate=, imei1=null, merchantId=999999999999, pageNo=0, toDate=, pageSize=15, type=, deviceId=/6uuUqGpocfsgMX1zqEEzQ==, status=}
+2026-05-01 13:31:15 [INFO] [] ====== API RESPONSE ======
+2026-05-01 13:31:15 [INFO] [] Status Code: 415
+2026-05-01 13:31:15 [INFO] [] Response: {
+    "type": "about:blank",
+    "title": "Unsupported Media Type",
+    "status": 415,
+    "detail": "Content-Type 'text/plain;charset=ISO-8859-1' is not supported.",
+    "instance": "/admin/dlc/deviceList"
+}
+2026-05-01 13:31:15 [INFO] [] ====== API REQUEST ======
+2026-05-01 13:31:15 [INFO] [] Endpoint: https://dev.kjsstpay.co.in/admin/dlc/deviceList
+2026-05-01 13:31:15 [INFO] [] Query Params: {fromDate=, imei1=null, merchantId=@@@, pageNo=0, toDate=, pageSize=15, type=#$%, deviceId=@@@, status=!@#}
+2026-05-01 13:31:15 [INFO] [] ====== API RESPONSE ======
+2026-05-01 13:31:15 [INFO] [] Status Code: 415
+2026-05-01 13:31:15 [INFO] [] Response: {
+    "type": "about:blank",
+    "title": "Unsupported Media Type",
+    "status": 415,
+    "detail": "Content-Type 'text/plain;charset=ISO-8859-1' is not supported.",
+    "instance": "/admin/dlc/deviceList"
+}
+2026-05-01 13:31:15 [INFO] [] [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@2c8ff67: 25 ms
+2026-05-01 13:31:15 [INFO] [] [TestNG] Time taken by org.testng.reporters.jq.Main@d0b814d: 106 ms
+2026-05-01 13:31:15 [INFO] [] ====== API RESPONSE ======
+2026-05-01 13:31:15 [INFO] [] Status Code: 415
+2026-05-01 13:31:15 [INFO] [] Response: {
+    "type": "about:blank",
+    "title": "Unsupported Media Type",
+    "status": 415,
+    "detail": "Content-Type 'text/plain;charset=ISO-8859-1' is not supported.",
+    "instance": "/admin/dlc/deviceList"
+}
+2026-05-01 13:31:15 [INFO] [] [TestNG] Time taken by org.testng.reporters.FailedReporter@3ea48c37: 18 ms
+2026-05-01 13:31:15 [INFO] [] ====== API REQUEST ======
+2026-05-01 13:31:15 [INFO] [] Endpoint: https://dev.kjsstpay.co.in/admin/dlc/deviceList
+2026-05-01 13:31:15 [INFO] [] Query Params: {fromDate= , imei1=null, merchantId= , pageNo= , toDate= , pageSize= , type= , deviceId= , status= }
+2026-05-01 13:31:15 [INFO] [] [TestNG] Time taken by org.testng.reporters.XMLReporter@590013c7: 42 ms
+2026-05-01 13:31:15 [INFO] [] [TestNG] Time taken by org.testng.reporters.EmailableReporter2@68e47e7: 32 ms
+2026-05-01 13:31:15 [INFO] [] [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@5409dfdd: 15 ms
+2026-05-01 13:31:15 [INFO] [] [TestNG] Time taken by org.testng.internal.ExitCodeListener@45f9d394: 0 ms
+2026-05-01 13:31:16 [INFO] [] ====== API RESPONSE ======
+2026-05-01 13:31:16 [INFO] [] Status Code: 415
+2026-05-01 13:31:16 [INFO] [] Response: {
+    "type": "about:blank",
+    "title": "Unsupported Media Type",
+    "status": 415,
+    "detail": "Content-Type 'text/plain;charset=ISO-8859-1' is not supported.",
+    "instance": "/admin/dlc/deviceList"
+}
+2026-05-01 13:31:16 [INFO] [] ====== API REQUEST ======
+2026-05-01 13:31:16 [INFO] [] Endpoint: https://dev.kjsstpay.co.in/admin/dlc/deviceList
+2026-05-01 13:31:16 [INFO] [] Query Params: {fromDate=, imei1=null, merchantId=999999999999, pageNo=0, toDate=, pageSize=15, type=, deviceId=/6uuUqGpocfsgMX1zqEEzQ==, status=}
+2026-05-01 13:31:16 [INFO] [] ====== API RESPONSE ======
+2026-05-01 13:31:16 [INFO] [] Status Code: 415
+2026-05-01 13:31:16 [INFO] [] Response: {
+    "type": "about:blank",
+    "title": "Unsupported Media Type",
+    "status": 415,
+    "detail": "Content-Type 'text/plain;charset=ISO-8859-1' is not supported.",
+    "instance": "/admin/dlc/deviceList"
+}
+2026-05-01 13:31:16 [INFO] [] [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@2c8ff67: 21 ms
+2026-05-01 13:31:17 [INFO] [] [TestNG] Time taken by org.testng.reporters.jq.Main@d0b814d: 137 ms
+2026-05-01 13:31:17 [INFO] [] [TestNG] Time taken by org.testng.reporters.FailedReporter@3ea48c37: 10 ms
+2026-05-01 13:31:17 [INFO] [] [TestNG] Time taken by org.testng.reporters.XMLReporter@590013c7: 61 ms
+2026-05-01 13:31:17 [INFO] [] [TestNG] Time taken by org.testng.reporters.EmailableReporter2@68e47e7: 15 ms
+2026-05-01 13:31:17 [INFO] [] [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@5409dfdd: 20 ms
+2026-05-01 13:31:17 [INFO] [] [TestNG] Time taken by org.testng.internal.ExitCodeListener@45f9d394: 0 ms

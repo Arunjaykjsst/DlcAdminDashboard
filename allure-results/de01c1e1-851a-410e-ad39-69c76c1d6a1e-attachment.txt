@@ -1,0 +1,23 @@
+{
+    "totalRecords": 706,
+    "code": "0x0200",
+    "report": [
+        {
+            "newWalletBalance": "8.1072363E7",
+            "previousWalletBalance": "8.1072463E7",
+            "trxnType": "DEBIT",
+            "txnDate": "2026-05-01 13:14:28.0",
+            "transactionId": "K17776214687523A913",
+            "merchantTransactionRefId": "K17776214681F07C1B1",
+            "transferType": "MERCHANT",
+            "remark": "Admin key wallet debited",
+            "adminName": "KJ SOFTWARE SYSTEM TECHNOLOGY PVT. LTD.",
+            "userName": null
+        }
+    ],
+    "totalPages": 706,
+    "pageSize": 1,
+    "description": "Data fetched successfully.",
+    "currentPage": 1,
+    "status": "Success"
+}

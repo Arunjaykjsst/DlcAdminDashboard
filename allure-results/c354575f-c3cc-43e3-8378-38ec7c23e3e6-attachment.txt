@@ -1,0 +1,1 @@
+{fromDate=, trxnType=CREDIT, pageNo=0, toDate=, transferType=MERCHANT, pageSize=15, type=, testName=Transaction Type CREDIT: test 3}
